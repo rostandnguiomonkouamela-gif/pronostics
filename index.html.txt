@@ -1,0 +1,8 @@
+pronostics/
+│
+├── index.html      ← obligatoire
+├── style.css       ← facultatif
+├── script.js       ← facultatif
+└── images/         ← facultatif
+     ├── logo.png
+     └── fond.jpg
